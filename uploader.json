@@ -3187,6 +3187,11 @@
                 "reserved_port/range"
             ],
             "symbolic_name": "sap_host_profile"
+        },
+        {
+            "file": "/var/log/dmesg",
+            "pattern": [],
+            "symbolic_name": "dmesg_log"
         }
     ],
     "globs": [
